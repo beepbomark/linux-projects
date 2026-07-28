@@ -1,0 +1,42 @@
+================================
+     SYSTEM HARDWARE INFO
+================================
+
+Generated: 2026-07-28 17:43:50
+
+System Information:
+Hostname: DESKTOP-05T35V1
+Kernel: 6.18.33.2-microsoft-standard-WSL2
+Architecture: x86_64
+
+CPU Information:
+CPU(s):                                  6
+On-line CPU(s) list:                     0-5
+Model name:                              AMD Ryzen 5 3500X 6-Core Processor
+Thread(s) per core:                      1
+Core(s) per socket:                      6
+Socket(s):                               1
+NUMA node0 CPU(s):                       0-5
+
+Memory Information:
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       905Mi        14Gi       3.5Mi       306Mi        14Gi
+Swap:          4.0Gi          0B       4.0Gi
+
+Storage Information:
+NAME   SIZE TYPE FSTYPE MOUNTPOINTS
+sda  356.9M disk ext4   
+sdb  159.4M disk ext4   
+sdc      4G disk swap   [SWAP]
+sdd      1T disk ext4   /snap
+                        /mnt/wslg/distro
+                        /
+
+PCI Devices:
+1263:00:00.0 3D controller: Microsoft Corporation Basic Render Driver
+6890:00:00.0 System peripheral: Red Hat, Inc. Virtio file system (rev 01)
+bc1c:00:00.0 SCSI storage controller: Red Hat, Inc. Virtio 1.0 console (rev 01)
+
+================================
+     END OF HARDWARE INFO
+================================
